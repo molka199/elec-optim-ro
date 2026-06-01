@@ -1,0 +1,7 @@
+Algorithme;Cout_total;Faisable;Temps_s
+Programmation Linéire (exacte);13690.79;True;0.0064
+Heuristique Gloutonne;13816.33;True;0.0003
+Recherche Tabou;13816.01;True;0.8054
+Recuit Simulé;13716.24;True;1.9387
+Colonie de Fourmis (ACO);13694.92;True;0.7206
+Algorithme Génétique;13752.99;True;2.5216
